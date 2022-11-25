@@ -2,7 +2,6 @@
 name: Task
 about: Create a task
 title: "[task] - "
-labels: task
 assignees: ''
 
 ---

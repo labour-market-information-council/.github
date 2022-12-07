@@ -11,21 +11,21 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Environment**
-- [ ] Development
-- [ ] Production
+- Development
+- Production
 
 **Scope - Data**
 If applicable, identify which part of the data pipeline the bug is originating from:
-- [ ] Extraction
-- [ ] Transformation
-- [ ] Models
-- [ ] API Return
+- Extraction
+- Transformation
+- Models
+- API Return
 
 **Scope - Infrastructure**
 If applicable, identify which part of the infrastructure the bug is originating from:
-- [ ] Terraform
-- [ ] Cloud Build
-- [ ] API
+- Terraform
+- Cloud Build
+- API
 
 **To Reproduce**
 If applicable, describe the steps to reproduce the behavior:
